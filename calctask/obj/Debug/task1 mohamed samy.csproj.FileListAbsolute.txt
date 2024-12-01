@@ -1,0 +1,10 @@
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\task1 mohamed samy\bin\Debug\task1 mohamed samy.exe.config
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\task1 mohamed samy\bin\Debug\task1 mohamed samy.exe
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\task1 mohamed samy\bin\Debug\task1 mohamed samy.pdb
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\task1 mohamed samy\obj\Debug\task1 mohamed samy.csproj.AssemblyReference.cache
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\task1 mohamed samy\obj\Debug\task1_mohamed_samy.Form1.resources
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\task1 mohamed samy\obj\Debug\task1_mohamed_samy.Properties.Resources.resources
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\task1 mohamed samy\obj\Debug\task1 mohamed samy.csproj.GenerateResource.cache
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\task1 mohamed samy\obj\Debug\task1 mohamed samy.csproj.CoreCompileInputs.cache
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\task1 mohamed samy\obj\Debug\task1 mohamed samy.exe
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\task1 mohamed samy\obj\Debug\task1 mohamed samy.pdb
