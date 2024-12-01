@@ -1,0 +1,19 @@
+E:\visual programming tasks\slider\slider\bin\Debug\net7.0-windows\slider.exe
+E:\visual programming tasks\slider\slider\bin\Debug\net7.0-windows\slider.deps.json
+E:\visual programming tasks\slider\slider\bin\Debug\net7.0-windows\slider.runtimeconfig.json
+E:\visual programming tasks\slider\slider\bin\Debug\net7.0-windows\slider.dll
+E:\visual programming tasks\slider\slider\bin\Debug\net7.0-windows\slider.pdb
+E:\visual programming tasks\slider\slider\obj\Debug\net7.0-windows\slider.Form1.resources
+E:\visual programming tasks\slider\slider\obj\Debug\net7.0-windows\slider.csproj.GenerateResource.cache
+E:\visual programming tasks\slider\slider\obj\Debug\net7.0-windows\slider.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual programming tasks\slider\slider\obj\Debug\net7.0-windows\slider.AssemblyInfoInputs.cache
+E:\visual programming tasks\slider\slider\obj\Debug\net7.0-windows\slider.AssemblyInfo.cs
+E:\visual programming tasks\slider\slider\obj\Debug\net7.0-windows\slider.csproj.CoreCompileInputs.cache
+E:\visual programming tasks\slider\slider\obj\Debug\net7.0-windows\slider.dll
+E:\visual programming tasks\slider\slider\obj\Debug\net7.0-windows\refint\slider.dll
+E:\visual programming tasks\slider\slider\obj\Debug\net7.0-windows\slider.pdb
+E:\visual programming tasks\slider\slider\obj\Debug\net7.0-windows\slider.genruntimeconfig.cache
+E:\visual programming tasks\slider\slider\obj\Debug\net7.0-windows\ref\slider.dll
+C:\Users\yelar\OneDrive\سطح المكتب\slider\slider\slider\obj\Debug\net7.0-windows\slider.dll
+C:\Users\yelar\OneDrive\سطح المكتب\slider\slider\slider\obj\Debug\net7.0-windows\refint\slider.dll
+C:\Users\yelar\OneDrive\سطح المكتب\slider\slider\slider\obj\Debug\net7.0-windows\slider.pdb
