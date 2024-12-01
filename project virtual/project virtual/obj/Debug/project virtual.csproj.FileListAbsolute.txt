@@ -1,0 +1,11 @@
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\project virtual\project virtual\bin\Debug\project virtual.exe.config
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\project virtual\project virtual\bin\Debug\project virtual.exe
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\project virtual\project virtual\bin\Debug\project virtual.pdb
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\project virtual\project virtual\obj\Debug\project virtual.csproj.AssemblyReference.cache
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\project virtual\project virtual\obj\Debug\project_virtual.Form1.resources
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\project virtual\project virtual\obj\Debug\project_virtual.Properties.Resources.resources
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\project virtual\project virtual\obj\Debug\project virtual.csproj.GenerateResource.cache
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\project virtual\project virtual\obj\Debug\project virtual.csproj.CoreCompileInputs.cache
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\project virtual\project virtual\obj\Debug\project virtual.exe
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\project virtual\project virtual\obj\Debug\project virtual.pdb
+C:\Users\yelar\OneDrive\سطح المكتب\task1 mohamed samy\project virtual\project virtual\obj\Debug\project_virtual.Form2.resources
